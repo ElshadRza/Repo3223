@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\bin\Debug\net6.0\Hil.exe
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\bin\Debug\net6.0\Hil.deps.json
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\bin\Debug\net6.0\Hil.runtimeconfig.json
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\bin\Debug\net6.0\Hil.dll
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\bin\Debug\net6.0\Hil.pdb
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.AssemblyInfo.cs
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.dll
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\refint\Hil.dll
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.pdb
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\Hil.genruntimeconfig.cache
+C:\Users\Owner\Documents\C#exmp\Hil\Hil\obj\Debug\net6.0\ref\Hil.dll
